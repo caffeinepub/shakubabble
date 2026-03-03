@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Link } from "@tanstack/react-router";
 import { BookOpen, Heart, Play, Sparkles, Star, Zap } from "lucide-react";
 
-const FEATURED_VIDEO_ID = "dQw4w9WgXcQ";
+const FEATURED_VIDEO_ID = "pEJxlyEKf_Q";
 
 const features = [
   {

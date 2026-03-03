@@ -3,33 +3,33 @@ import { Play } from "lucide-react";
 
 const VIDEO_DATA = [
   {
-    id: "dQw4w9WgXcQ",
-    title: "The Day Shaku Learned to Let Go",
+    id: "pEJxlyEKf_Q",
+    title: "Intro",
     ocid: "videos.item.1",
   },
   {
-    id: "9bZkp7q19f0",
-    title: "Shaku's Morning Routine — Mindful Edition",
+    id: "pEJxlyEKf_Q",
+    title: "Intro",
     ocid: "videos.item.2",
   },
   {
-    id: "kJQP7kiw5Fk",
-    title: "When Life Gets Loud: A Quiet Story",
+    id: "pEJxlyEKf_Q",
+    title: "Intro",
     ocid: "videos.item.3",
   },
   {
-    id: "JGwWNGJdvx8",
-    title: "Creativity Block? Shaku Has Thoughts",
+    id: "pEJxlyEKf_Q",
+    title: "Intro",
     ocid: "videos.item.4",
   },
   {
-    id: "RgKAFK5djSk",
-    title: "Finding Joy in Small Things",
+    id: "pEJxlyEKf_Q",
+    title: "Intro",
     ocid: "videos.item.5",
   },
   {
-    id: "OPf0YbXqDm0",
-    title: "Shaku Talks: Self-Love & Imposter Syndrome",
+    id: "pEJxlyEKf_Q",
+    title: "Intro",
     ocid: "videos.item.6",
   },
 ];
